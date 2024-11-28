@@ -4,6 +4,11 @@ img {
 body {
     background-color: black;
 }
+p {
+    color: aliceblue;
+    font-size: 2em;
+}
+
 footer {
     border-top: 2px solid aqua;
     text-align: center;
