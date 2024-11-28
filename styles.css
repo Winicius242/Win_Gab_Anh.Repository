@@ -18,6 +18,9 @@ ul li a {
 ul {
     text-align: center;
 }
+ul li {
+    display: inline-block;
+}
 footer {
     border-top: 2px solid aqua;
     text-align: center;
