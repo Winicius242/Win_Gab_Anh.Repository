@@ -4,3 +4,7 @@ img {
 body {
     background-color: black;
 }
+footer {
+    border-top: 2px solid aqua;
+    text-align: center;
+}
