@@ -20,6 +20,7 @@ ul {
 }
 ul li {
     display: inline-block;
+    
 }
 footer {
     border-top: 2px solid aqua;
