@@ -15,7 +15,9 @@ ul li a {
     font-weight: bold;
     
 }
-
+ul {
+    text-align: center;
+}
 footer {
     border-top: 2px solid aqua;
     text-align: center;
